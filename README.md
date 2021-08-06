@@ -9,4 +9,4 @@ Largura: 2.5 cm;
 
 Dimensões dos braços da pulseira:
 Comprimento: 18.0 cm;
-Largura: 4.5;
+Largura: 2.5 cm;
